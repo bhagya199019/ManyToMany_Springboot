@@ -1,0 +1,6 @@
+com\bitlabs\SpringbootManyToManyApplication.class
+com\bitlabs\controller\StudentCourseController.class
+com\bitlabs\entity\Student.class
+com\bitlabs\repository\StudentRepository.class
+com\bitlabs\repository\CourseRepository.class
+com\bitlabs\entity\Course.class
